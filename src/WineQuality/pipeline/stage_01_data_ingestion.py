@@ -2,8 +2,6 @@ from WineQuality.config.configuration import ConfigurationManager
 from WineQuality.components.data_ingestion import DataIngestion
 from WineQuality import logger
 
-STAGE_NAME = "Data Ingestion Stage"
-
 class DataIngestionTrainingPipeline:
     def __init__(self) -> None:
         pass
