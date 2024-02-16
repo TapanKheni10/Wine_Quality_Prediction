@@ -4,7 +4,7 @@
 import os
 from box.exceptions import BoxValueError
 import yaml
-from src.WineQuality import logger
+from WineQuality import logger
 import json
 import joblib
 from ensure import ensure_annotations
