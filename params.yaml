@@ -1,3 +1,7 @@
 ## Initially we are going to add some dummie key value  pair to overcome the error while running the code
 
-ex_key: ex_value
+# ex_key: ex_value
+
+ElasticNet:
+  alpha: 0.2
+  l1_ratio: 0.1
